@@ -11,7 +11,8 @@ Our objective is to use PySpark to extract amazon review data from an S3 bucket,
 - Data: [US Amazon Reviews for Major Appliances](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Major_Appliances_v1_00.tsv.gz)
 
 ## Project Results 
-Code for the analysis can be found in the [Vine_Review_Analysis.ipynb](Vine_Review_Analysis.ipynb).
+- Screenshots of data loaded in Postgres/pgAdmin: [customers table](./images/customers_table_pgadmin.png), [products table](./images/products_table_pgadmin.png), [review_id table](./images/review_id_table_pgadmin.png), and [vine table](./images/vine_table_pgadmin.png)
+- Code for the analysis can be found in the [Vine_Review_Analysis.ipynb](Vine_Review_Analysis.ipynb).
 
 ### Vine Reviews
 
